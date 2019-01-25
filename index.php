@@ -16,7 +16,7 @@ use App\Model\Menu;
 $menu = new Menu((new MySQLi));
 
 /**
- * Comente a intancia acima e descomente essa abaixo
+ * Comente a intância acima e descomente essa abaixo
  */
 // $menu = new Menu((new PDO));
 
