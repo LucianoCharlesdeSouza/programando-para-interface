@@ -1,0 +1,19 @@
+{
+    "name": "estudos/php",
+    "description": "ficar atualizado quanto a evolucao do php",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luciano Charles de Souza",
+            "email": "souzacomprog@gmail.com"
+        }
+    ],
+    "autoload":{
+        "psr-4": {
+            "App\\": "App"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
