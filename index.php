@@ -8,7 +8,7 @@ use App\Model\Menu;
 
 
 /**
- * Poder ver o poder de programar-mos para interfaces no exemplo abaixo,
+ * Podemos ver o quão importante é programar-mos para interfaces no exemplo abaixo,
  * podemos apenas mudar a classe injetada MySQLi para PDO que nossa classe Menu
  * manterá os mesmos comportamentos
  */
